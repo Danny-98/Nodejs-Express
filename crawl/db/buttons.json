@@ -1,0 +1,11 @@
+{
+  "buttons": [
+    { "name": "ĂN KIÊNG", "key": "ankieng" },
+    { "name": "Món nhậu", "key": "anNhau" },
+    { "name": "Bữa Sáng", "key": "anSang" },
+    { "name": "BỮA TRƯA", "key": "anTrua" },
+    { "name": "Bữa tối", "key": "anToi" },
+    { "name": "ĂN VẶT", "key": "anVat" },
+    { "name": "MÓN CHAY", "key": "anChay" }
+  ]
+}
