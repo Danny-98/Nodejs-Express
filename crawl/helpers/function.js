@@ -80,13 +80,16 @@ async function crawlFoodsInfo(url) {
     .replace(/(\r\n|\n|\r|\t)/gm, "")
     .replace(/<img .*?>/g, "");
 
-  let data = {
+  const youtubeEmbedId = $(".youtube.text-center").attr("data-embed");
+
+  const data = {
     level,
     meterial,
     preprogressing,
     pratice,
     howtouse,
     trick,
+    youtubeEmbedId,
   };
   return data;
 }
