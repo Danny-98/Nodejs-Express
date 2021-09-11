@@ -69,3 +69,14 @@ Thứ bảy Có tỷ lệ thu hồi vốn tốt.
 Thứ tám Tỉ lệ thu lợi đầu tư cố định của doanh nghiệp cao.
 Thứ chín Sự lý tính, trung thành của người kinh doanh doanh nghiệp ưu tiên lợi nhuận của cổ đông.
 Thứ mười Giá cả hợp lý, có biên độ an toàn lớn.
+
+
+Lợi nhuận = lượng tiêu thụ × (giá tiêu thụ - giá sản xuất)
+= thị phần thị trường × tổng lượng tiêu thụ thị trường × lợi nhuận tiêu thụ
+= thị phần thị trường × tổng lượng tiêu thụ thị trường x (giá tiêu thụ - giá sản xuất)
+
+
+
+“Nếu một sản phẩm và dịch vụ của một doanh nghiệp có được ba đặc
+điểm nổi bật: Thứ nhất, sản phẩm và dịch vụ có thị trường rộng mở; thứ hai, được khách hàng xem là
+không thể có thứ khác thay thế được; thứ 3, không bị sự chi phối của giá cả.
