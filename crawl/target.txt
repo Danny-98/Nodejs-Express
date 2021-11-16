@@ -1,3 +1,4 @@
+
 1. Tỉ lệ giữa lợi nhuận của công ty này với giá trị cổ phiếu gấp 2 lần mức lợi suất trái phiếu của công ty xếp hạng AAA
 2. Mức lợi nhuận thị trường hiện nay của công ty này bằng 2/5 lần mức cao nhất trong vòng 5 năm trở lại đây
 3. Mức lợi nhuận cổ phiếu của công ty này bằng 2/3 mức lợi suất trái phiếu của công ty xếp hạng AAA
@@ -80,3 +81,283 @@ Lợi nhuận = lượng tiêu thụ × (giá tiêu thụ - giá sản xuất)
 “Nếu một sản phẩm và dịch vụ của một doanh nghiệp có được ba đặc
 điểm nổi bật: Thứ nhất, sản phẩm và dịch vụ có thị trường rộng mở; thứ hai, được khách hàng xem là
 không thể có thứ khác thay thế được; thứ 3, không bị sự chi phối của giá cả.
+
+
+. Đặc điểm giá trị
+    Năng lực cạnh tranh cốt lõi của công ty mang lại giá trị cho các doanh nghiệp và giá trị cho khách
+    hàng.
+    Năng lực cạnh tranh cốt lõi là mạch nguồn của ưu thế cạnh tranh bền vững. Do đó, đặc điểm giá trị
+    của năng lực cạnh tranh cốt lõi thể hiện ở ba mặt:
+    (1) Khả năng tạo ra giá trị cho người tiêu dùng
+    Năng lực cạnh tranh cốt lõi thông qua việc tạo ra các sản phẩm để đáp ứng nhu cầu thị trường thể
+    hiện giá trị mà khách hàng đặc biệt quan tâm, để cung cấp cho khách hàng với giá trị nhiều hơn so
+    với đối thủ cạnh tranh.
+    (2) Khả năng tạo ra giá trị kinh doanh
+    Khả năng cạnh tranh cốt lõi của doanh nghiệp để tạo ra sự khác biệt giá trị và sự khác biệt chi phí,
+    có vị trí cốt lõi có thể cải thiện đáng kể lợi nhuận của doanh nghiệp. Nó cho phép các doanh nghiệp
+    có thể đáp ứng nhu cầu của khách hàng với chi phí thấp hơn so với các đối thủ cạnh tranh, đồng thời
+    năng lực cạnh tranh tạo ra giá trị nhiều hơn cho công ty.
+    (3) Tận dụng cơ hội hoặc khả năng chịu được cuộc khủng hoảng
+    Giá trị của năng lực cạnh tranh cốt lõi khiến các doanh nghiệp trong cùng một môi trường tận dụng
+    cơ hội hoặc chịu được các cuộc khủng hoảng tốt hơn so với đối thủ cạnh tranh, là một khả năng cạnh
+    tranh tích hợp, năng động.
+
+Tính then chốt
+
+
+Tính độc đáo và hiếm có
+
+Tính không thể bắt chước
+
+    Các đối thủ
+    cạnh tranh khi muốn mô phỏng theo năng lực cạnh tranh cốt lõi của doanh nghiệp sẽ phải đối mặt với
+    bất lợi về chi phí hay nguyên liệu, khiến cho năng lực cạnh tranh cốt lõi của doanh nghiệp có được lợi
+    thế cạnh tranh bền vững.
+
+Tính ẩn tàng
+
+
+Có một sự hiểu biết toàn diện đối với sự phát triển trong quá khứ, hiện tại và tương lai của
+doanh nghiệp.
+
+
+Chú ý đến các báo cáo tài chính: Lợi nhuận trong báo cáo phải là lợi nhuận tiền mặt.
+Hãy chú ý đến các chủ doanh nghiệp: Họ phải là người thông minh, sáng suốt.
+
+
+Quan tâm tới lượng hàng tồn kho và vốn: Hàng tồn kho ít, tài sản doanh thu cao.
+
+
+● Một vài loại doanh nghiệp Buffett đề nghị nên tránh xa
+1. Công ty phân bổ tiền mặt không ổn định. Việc phân bổ tiền mặt ổn định cho thấy một hoạt động ổn
+định và tính xác thực của hiệu suất, các công ty gian lận chỉ có thể tạo ra lợi nhuận trên giấy mà không
+thể tạo ra tiền mặt. Vì vậy, họ chỉ có thể dựa vào cổ phiếu truyền thống để phân phối chứ không thể
+thông qua phân phối tiền mặt.
+
+2. Công ty không thành thực, bao gồm cả những công ty lớn nhưng khai gian, che giấu thông tin, giao
+dịch nội gián, cung cấp thông tin kế toán sai.
+
+3. Công ty có các biến động mạnh trong vòng 5 năm. Sự biến động lớn này nói lên sự bất ổn của
+công ty, độ rủi ro khá cao. Để khảo sát sự ổn định của công ty, thì 5 năm là khoảng thời gian cần thiết.
+
+4. Công ty nằm trong lĩnh vực đang suy thoái tổng thể. Cuộc suy thoái sẽ khiến cho hoạt động và hiệu
+suất của các công ty niêm yết bị ảnh hưởng.
+
+5. Công ty mẹ quản lý yếu kém. Nếu Tổng công ty đang hoạt động không đúng cách thì khả năng tồn
+tại của các công ty niêm yết sẽ bị ảnh hưởng rất nhiều, rủi ro theo đó sẽ tăng lên.6. Công ty không có lĩnh vực hoạt động chủ chốt, hoặc lĩnh vực chủ chốt hoạt động không nổi bật,
+việc kinh doanh quá đa dạng.
+
+7. Hiệu suất bình thường hoặc kém, công chúng và các phương tiện truyền thông luôn nghi ngờ về
+năng lực của công ty, hơn nữa còn gian lận về sổ sách.
+
+8. Công ty niêm yết có quy mô doanh nghiệp quá nhỏ. Quy mô nhỏ khó tạo ra hiệu quả kinh tế, chi
+phí vận hành cao và khả năng chống rủi ro kém
+
+Sáu nguyên tắc Buffett thu mua doanh nghiệp:
+
+Đầu tiên, quy mô của công ty lớn, ít nhất là 5 triệu đô-la lợi nhuận sau thuế.Thứ hai, có một lợi nhuận bền vững và ổn định.
+Thứ ba, công ty trong trường hợp có một số lượng nhỏ các khoản nợ hoặc không có nợ, phải có
+khả năng thu hồi vốn tốt.
+Thứ tư, có sự quản lý tốt.
+Thứ năm, có sự rõ ràng và dễ hiểu về tài chính và kinh doanh.
+Thứ sáu, giá bán rõ ràng.
+
+
+Chọn một số cổ phiếu có thể sinh lời cao trên mức thu nhập bình quân và sau đó tập trung các
+khoản tiền của bạn đầu tư cho những cổ phiếu này, bất kể thị trường chứng khoán thăng trầm
+cũng kiên trì nắm giữ cổ phiếu, chắc chắn sẽ giành chiến thắng.
+
+
+Tiền đề nắm giữ lâu dài là quan tâm đến bộ mặt cơ bản của doanh nghiệp
+và tình hình lợi nhuận của công ty, kịp thời thực hiện việc bán cổ phần nếu
+mặt cơ bản của công ty và các khoản thu nhập đã xuống cấp nghiêm trọng.
+
+
+Làm thế nào để đánh giá một công ty, và làm thế nào để xem xét giá thị trường.
+
+
+Nói chung, các tình huống sau đây là thời gian tốt nhất để mua:
+
+(1) Khi có thông tin xấu xuất phát từ chủ doanh nghiệp hoặc người quản lý của doanh nghiệp đó,
+cổ phiếu thường giảm mạnh, đó chính là thời điểm tốt để mua.
+(2) Khi thị trường chứng khoán suy giảm một thời gian thì giai đoạn thấp trong thời gian dài hạn là
+thời cơ để mua vào cổ phiếu với giá thấp. Đây là cơ hội tốt, các nhà đầu tư cần nắm bắt kịp thời.
+(3) Khi thị trường chứng khoán đang trong giai đoạn củng cố, nhiều cổ phiếu phải chịu áp lực cao
+và hỗ trợ thấp, có thể tìm mua khi cổ phiếu không bị phá giá, và bán khi giá đang chịu phải áp lực
+để kiếm được lợi nhuận ngắn hạn.
+(4) Khi các công ty đầu tư nhiều tiền cho việc mở rộng quy mô thì lợi nhuận của chúng sẽ bị ảnh
+hưởng, mặt khác phải tính đến trường hợp, một loạt các cải cách đó không thể tránh khỏi có vấn đề,
+dẫn đến sự quan tâm của nhiều nhà đầu tư cổ phiếu giảm đi, khiến giá cổ phiếu giảm, đây chính là thời
+cơ tốt để mua vào.
+(5) Khi các doanh nghiệp tập trung vốn, sử dụng các công nghệ sản xuất tiên tiến, tăng năng suất
+của công ty, do đó, giúp cải thiện lợi nhuận, nó là cơ hội thuận lợi nhất để mua cổ phiếu niêm yết.
+
+Nói chung, những tình huống sau đây là thời cơ để bán cổ phiếu tốt nhất:
+
+(1) Sau khi mua một cổ phiếu một tuần, giá của nó tăng hơn 50% thì nên bán ngay lập tức. Khi tỷ
+lệ đầu tư chứng khoán trở lại cao hơn nhiều so với lãi suất huy động, các nhà đầu tư nên hành động
+dứt khoát.
+
+(2) Thị trường chứng khoán tăng dài hạn, không nên tham lam chờ đến lúc kiếm được gấp hai lần
+mới chịu bán ra.
+
+(3) Gặp phải một cổ phiếu bất ngờ tăng giá nên lập tức xử lý ngay. Trong trường hợp này, cổ
+phiếu có khả năng giao dịch lớn, nếu không bán kịp thời, để cơn bão bán ra kết thúc thì sẽ rất khó
+tiếp tục bán ra cổ phiếu của bạn.
+
+(4) Sau khi các cổ phiếu tăng, thị trường đã ổn định thì bạn nên bán ra cổ phiếu, khi lượng giao dịch
+giảm dần thì nên bán ngay cổ phiếu của bạn.
+
+(5) Khi các cổ phiếu đã đạt mức cao và bỗng một ngày giảm đột ngột so với giá đóng cửa của
+ngày giao dịch trước đó, độ biến động giá cổ phiếu của ngày phải lớn hơn so với ngày giao dịch
+trước đó.
+
+Đối với sự gia tăng ổn định liên tục của cổ phiếu chất lượng, khi xảy ra các trường hợp sau thì nên
+bán cổ phiếu đang giữ: Trong năm, không ai mua cổ phần của doanh nghiệp, tăng trưởng lợi nhuận và
+doanh số bán hàng giảm đáng kể, công ty cắt giảm chi phí để duy trì lợi nhuận và các doanh nghiệp
+cũng không phát triển sản phẩm mới có triển vọng trên thị trường.
+
+
+Với cổ phiếu loại hình tăng trưởng chậm, khi xảy ra các tình trạng sau đây thì cần phải bán ra: Công
+ty 2 năm liền suy giảm liên tiếp; số tiền hàng tồn kho lớn; chậm vốn doanh thu; doanh nghiệp sáp nhập
+bị tổn thất, làm cho quỹ của doanh nghiệp bị chiếm dụng, và trong thời gian ngắn khiến doanh nghiệp
+sáp nhập bị tổn thất nặng nề; cổ phiếu tăng hơn 30%, hoặc bị các “ông lớn“ thao túng đằng sau, khiến
+cho giá cổ phiếu tăng từ 10% trở lên.
+
+Đối với việc cổ tức tăng cao, khi doanh nghiệp đã trở thành doanh nghiệp tăng trưởng mà ai ai cũng
+biết, và mọi người đua nhau mua vào cổ phiếu của họ thì đó là một thời điểm tốt để bán ra.
+
+
+Chìa khóa thành công khi đầu tư vào cổ phiếu không phải là sự mê hoặc do sự biến động ngắn hạn
+của thị trường mà là sự hiểu biết các xu hướng của cả nền kinh tế. Chỉ số cảnh báo kinh tế được thiết
+lập bởi chính phủ xuống thấp, trong khi lạm phát và lãi suất tăng cùng một lúc, khi đó, các nhà đầu tư
+có thể có được một sự hướng dẫn rõ ràng rằng, một cuộc suy thoái kinh tế sắp diễn ra.
+Với thị trường chứng khoán, đây không phải là một tin tốt mà là thời gian để các nhà đầu tư ồ ạt bán
+cổ phiếu ra. Cuối thời kì suy thoái, các nhà đầu tư thường kiếm được tiền trong thị trường chứng khoán
+khi bán ra cổ phiếu.
+
+
+Nguyên tắc giao dịch chứng khoán
+ĐẦU TƯ DÀI HẠN
+Thời gian mua vào cổ phiếu đầu tư
+Kinh tế phát triển có bốn quá trình
+Đầu tư trung hạn
+Trong điều kiện xác định tăng giá dài hạn, tiến hành theo phương thức từng đoạn
+ĐẦU TƯ NGẮN HẠN
+Thời gian bán ra được tiến hành trên cơ sở xác định lên giá trung và
+dài hạn
+Thời gian giao dịch ở thời kỳ đầu và thời kỳ giữa của thời điểm lên giá
+trung hạn
+
+
+● Hành động phù hợp với xu thế
+Khi thị trường chứng khoán thuận lợi thì là thời điểm thích hợp để thực hiện các giao dịch khác
+nhau, nhưng các nhà đầu tư vẫn phải luôn quan tâm đến sự tăng hoặc giảm giá cổ phiếu, chú ý xem nó
+đã lên đến đỉnh cao hoặc bắt đáy chưa, nếu đã đạt đến điều này thì giao dịch được xem là trái ngược
+với “xu thế”. Về việc áp dụng phương thức đầu tư “hợp thời”, các nhà đầu tư nên chú ý đến hai
+điểm: Thứ nhất, liệu cổ phiếu có thực sự giảm hoặc thực sự tăng không; thứ hai, giá cổ phiếu đã thực
+sự đến điểm cần đạt chưa.
+● Giảm chi phí, bảo toàn thực lực
+Các nhà đầu tư nên giảm bớt những khoản chi phí không cần thiết để bảo toàn thực lực. Thông
+thường, các nhà đầu tư sẽ bán cổ phiếu nắm giữ trong tay khi nó tăng giá, đợi khi giá đã giảm xuống thì
+mua bổ sung vào. Lợi ích của nó được nảy sinh khi có sự khác biệt về giá trong một thời gian ngắn.
+Mục đích của hoạt động là: Đầu tiên, thị trường tăng giá, bán ra, khi xuống trở lại thì mua thêm vào;
+hai là, thị trường giảm giá, bán ra, giảm hơn nữa thì mua vào.
+● Đầu tư bảo toàn vốn
+Đầu tư bảo toàn vốn được sử dụng chủ yếu trong hoàn cảnh kinh tế suy thoái, lạm phát, xu hướng
+thị trường không rõ ràng. Bảo toàn vốn là phương pháp mà các nhà đầu tư không muốn để mất lợi ích
+có sẵn, “vốn” này thấp hơn nhiều so với lợi nhuận dự kiến của các nhà đầu tư, nhưng quan trọng nhất,
+sẽ không làm tổn thất đến vốn.
+● Cân bằng đầu tư và đầu tư tăng tốc
+Cân bằng đầu tư là nhà đầu tư sau khi mua một cổ phiếu phát hiện các cổ phiếu tiếp tục giảm xuống
+đến một mức độ nhất định, và sau đó lại mua vào, do đó, tổng giá mua trung bình thấp hơn giá mua đầu
+tiên. Sự tăng tốc dùng để chỉ sau khi mua cổ phiếu, giá cổ phiếu tăng, bạn ngay lập tức có thể mua vào
+làm gia tăng số lượng cổ phần, từ đó tăng lợi nhuận.
+Cân bằng đầu tư và đầu tư tăng tốc có chung một đặc điểm là: Không đem vốn đầu tư vào một lần,
+mà là chia làm nhiều lần đầu tư.
+● Đầu tư “chống đà“
+Để xác nhận các xu hướng chung của các sự kiện trên thị trường chứng khoán có thể áp dụng
+phương pháp đầu tư ”Xu hướng chống đà”, đó là quyết định bán cổ phiếu đang phổ biến và tạo được
+thông tin dư luận tốt, đồâng thời, quyết định cổ phiếu càng tăng càng bán, càng giảm càng mua nhiều
+hơn.
+Phương pháp ”chống đà” phải được kết hợp với các điều kiện cơ bản của thị trường, ví dụ: Thị
+trường chứng khoán sụt giảm trong thời gian dài, khi bắt đầu tăng lên với số lượng lớn, bạn nên theo
+đuổi; nếu cổ phiếu tiếp tục tăng trong thời gian dài, khi bắt đầu giảm số lượng lớn, bạn nên bán đi.
+Nếu không, việc sử dụng ”lực chống” không những không có lợi nhuận mà còn làm bạn gia tăng tổn
+thất.
+Không phải dễ dàng để phát hiện và dừng lại kịp thời các giao dịch để tránh tổn thất ở thị trườngchứng khoán. Kinh doanh cổ phiếu là một ngành dùng tiền để kiếm tiền. Một khi vốn của bạn bị tổn
+thất, bạn sẽ gặp thất bại. Dù là ngày mai, bạn thấy được một cơ hội đầu tư tốt nhưng trong tay không
+có vốn thì bạn cũng chỉ có thể nhìn mà không thể hành động. Buffett đưa ra lời khuyên đầu tiên là
+phải cố gắng bảo toàn vốn, đây là cách tốt nhất để chấm dứt rủi ro.
+
+
+1. Phương pháp đọc báo cáo tài chính khái quát, đơn
+giản
+
+◆ Kiểm tra “Miêu tả các sự kiện lớn” và “tình hình kinh doanh”
+Người đứng đầu doanh nghiệp thường đưa một số thông tin để cho thấy dự án phát triển của công tyvà ước tính lợi nhuận tiềm năng cho sự tăng trưởng lợi nhuận. Điều này rất đáng để phân tích, kiểm
+nghiệm.
+◆ Xem tình hình phân bổ của cổ đông
+Các công ty phân tích công bố 10 cổ đông hàng đầu nắm giữ cổ phiếu, nếu trong số đó có nhiều cổ
+đông cá nhân lớn, thì có môi trường đầu cơ cổ phiếu tương đối mạnh.
+◆ Kiểm tra số lượng cổ phiếu nắm giữ của Hội đồng quản trị
+Chủ tịch và Tổng giám đốc nắm giữ cổ phiếu tương đối nhiều, giá chứng khoán trực tiếp liên quan
+đến lợi ích cá nhân của họ thì hoạt động của công ty nói chung sẽ tốt hơn. Ngược lại, nếu Chủ tịch và
+Tổng giám đốc hầu như không nắm giữ cổ phiếu, bạn nên nghiêm túc xem xét việc đầu tư vào công ty
+để tránh tổn thất.
+◆ Xem thu nhập đầu tư và thu nhập ngoài hoạt động kinh doanh
+Nói chung, công ty có nguồn lợi nhuận đầu tư đơn nhất đáng tin cậy hơn là đa dạng hóa các hoạt
+động kinh doanh, vì điều ấy có thể ảnh hưởng đến lợi nhuận.
+◆ Xem kế hoạch phân phối
+Vào thời kì báo cáo hàng năm, những công ty có thể cho ra nhiều cổ phiếu thưởng, thường tạo ra
+những phiên làm việc tốt. Các công ty niêm yết dễ dàng giới thiệu các chương trình chuyển đổi cổ
+phiếu với tỷ lệ cao thường mang những đặc điểm sau: Thành tích kinh doanh tương đối tốt, giá trị tài
+sản ròng cao, có vốn tích lũy lớn, thời gian lên sàn không dài, trong hai năm qua chưa thực hiện các
+phương thức phân bổ vốn hay tăng gia phát triển, cũng không có phân bổ cổ tức.
+
+◆ Xem thông tin tài chính quan trọng
+(1) Chỉ số nghiệp vụ kinh doanh chủ yếu: Là xương sống của công ty, do vậy chỉ số kinh doanh là
+một chỉ số quan trọng. Chỉ số tăng lên hơn 20%, cho thấy công ty có sự tăng trưởng tốt, giảm hơn
+20% chứng tỏ sự sụt giảm.
+(2) Chỉ số lợi nhuận ròng: Chỉ số này là đối tượng chính quan trọng để bạn xem xét. Chỉ số này lên
+hơn 20% có nghĩa là công ty tăng trưởng tốt, được xem như một đối tượng quan sát quan trọng.
+(3) Lợi nhuận hợp nhất và bảng phân bổ lợi nhuận: Một công ty có sự tăng trưởng đồng thời cả
+lợi nhuận ròng và lợi nhuận nghiệp vụ chủ yếu thì có thể xem là một công ty tốt. Nếu lợi nhuận ròng
+tăng 20%, trong khi thu nhập nghiệp vụ chủ yếu sụt giảm, thì cho thấy sự tăng trưởng lợi nhuận chủ
+yếu là các khoản bên ngoài các thu nhập từ nghiệp vụ kinh doanh chủ yếu. Vì vậy, nên xác định
+nguồn gốc thu nhập để xem xét liệu có thể hình thành một điểm tăng trưởng lợi nhuận mới, từ đó,
+xác định triển vọng phát triển trong tương lai của công ty.
+(4) Tỉ lệ lợi nhuận kinh doanh chính: Tỉ lệ lợi nhuận kinh doanh chính = (lợi nhuận kinh doanh chính
+÷ thu nhập chính của doanh nghiệp) × 100%. Công thức này phản ánh lợi nhuận của các công ty trong
+các lĩnh vực kinh doanh chủ yếu, khi cần thiết có thể dùng để so sánh với lợi nhuận của các công ty
+khác nhau trong cùng một ngành.
+
+Vì vậy, các nhà đầu tư nên đem các chỉ số tài chính như tỉ số lợi nhuận trên vốn chủ sở hữu (ROE),
+tỷ lệ nợ (như tỷ lệ tài sản, trách nhiệm), thu nhập không định kỳ (thu nhập ngoài hoạt động), tỉ lệ thanh
+toán cổ tức, chi phí và các thông số tài chính khác đặt cùng một chỗ rồi phân tích toàn diện trước khi
+quyết định đầu tư.
+
+ROE = (Lợi nhuận sau thuế - Cổ tức) ÷ (Bình quân vốn cổ phần phổthông) × 100%
+
+(1) LỢI NHUẬN HOẠT ĐỘNG = thu nhập hoạt động - chi phí vận hành - chi phí hoạt động
+(2) LỢI NHUẬN HOẠT ĐỘNG = lợi nhuận hoạt động ÷ thu nhập điều hành × 100%
+
+
+Phân loại các luồng tiền mặt
+Lưu chuyển tiền từ hoạt động điều hành:
+Bán hàng hoá, dịch vụ...
+Mua sản phẩm hoặc chi phí nguyên liệu
+Chi phí quản lí
+Thuế
+Lưu chuyển tiền từ hoạt động đầu tư:
+Thu nhập hoặc chi phí mua bán chứng khoán
+Thu nhập hoặc chi phí mua bán tài sản cố định
+Lưu chuyển tiền từ hoạt động tài chính:
+Thu nhập từ từ hoạt động cho vay
+Tiền chi trả các khoản đi vay
+Thu nhập có được do phát hành cổ phiếu
+Chi phí chi trả cổ tức
+
+
+Thu nhập chủ sở hữu
+Thu nhập chủ sở hữu = dòng tiền mặt - số tiền đầu tư thiết bị mỗi năm - vốn lưu động

@@ -134,4 +134,15 @@ async function crawlImageHtml(url) {
   const content = $("div.chapter-content");
   return content.html();
 }
-module.exports = { crawler_mon_ngon_moi_ngay, crawlcomicInfo };
+async function crawlCsgo(){
+  // https://csgoempire.com/withdraw#730
+  // https://buff.163.com/market/csgo#tab=selling&page_num=1
+  let newUrl = "https://csgoempire.com/withdraw#730"
+  const res = await fetch(newUrl);
+  const data = await res.text();
+  const $ = cheerio.load(data);
+  
+  const content = $("div.item__inner")
+  console.log("data",data);
+}
+module.exports = { crawler_mon_ngon_moi_ngay, crawlcomicInfo,crawlCsgo };
