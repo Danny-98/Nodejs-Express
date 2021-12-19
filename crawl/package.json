@@ -13,8 +13,10 @@
   "author": "DannyDang",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
     "node-fetch": "^2.6.1",
+    "request-promise": "^4.2.6",
     "socket.io-client": "^4.3.2"
   }
 }
