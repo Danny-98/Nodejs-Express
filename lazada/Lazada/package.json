@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "fs-extra": "^8.1.0",
     "prompts": "^2.3.0",
     "set-interval-async": "^1.0.30",
